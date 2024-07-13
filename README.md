@@ -1,18 +1,35 @@
-# NumeroSecreto
-Projeto trabalhado no curso de introdução a lógica de programação com JavaScript. 
-O jogo consiste em fazer o usuário adivinhar o número secreto gerado de forma randômica pelo sistema. 
+Jogo Número Secreto
+Bem-vindo ao Jogo Número Secreto!
 
-O que foi aprendido durante esse projeto:
+Neste jogo, você precisa adivinhar um número secreto que o computador escolheu.
 
-1. Interação com o usuário: Utilização da função prompt para interagir com o jogador e capturar o chute.
+Como jogar:
 
-2. Estrutura de repetição (while): Implementação de um loop while para continuar solicitando palpites até que o número secreto seja adivinhado.
+O computador escolhe um número secreto entre 1 e 10.
+Você digita um número no campo de entrada.
+Clique no botão "Chutar" para verificar se você acertou.
+O jogo te dirá se o número secreto é maior ou menor que o seu chute, utilizando a tecnologia de voz responsiveVoice.speak!
+Continue chutando até acertar o número secreto!
+Tecnologias:
 
-3. Lógica condicional: Uso de declarações if-else para comparar o chute do usuário com o número secreto e fornecer feedback adequado.
+HTML
+CSS
+JavaScript
+responsiveVoice.speak
+Funcionalidades:
 
-4. Variáveis e contadores: Utilização de variáveis como tentativas para contar quantas vezes o usuário tentou adivinhar o número secreto.
+Número secreto aleatório: O jogo gera um número secreto aleatório a cada partida.
+Mensagens de feedback: O jogo fornece mensagens para te ajudar a adivinhar o número secreto, com a voz do responsiveVoice.speak.
+Próximos passos:
 
-5. Randomização: Geração de um número aleatório utilizando Math.random() e parseInt para definir o número secreto dentro de um intervalo específico.
+Adicionar níveis de dificuldade, permitindo que o jogador escolha um intervalo de números maior.
+Implementar um limite de tentativas para tornar o jogo mais desafiador.
+Exibir a contagem de tentativas para o jogador.
+Adicionar dicas para ajudar o jogador a adivinhar o número secreto.
+Link para o jogo online: [Insira o link aqui quando estiver pronto]
 
-6. Finalização do jogo: Encerramento do jogo quando o número correto é adivinhado, mostrando uma mensagem de parabéns e o número de tentativas.
+Contribuições:
 
+Se você quiser contribuir com o projeto, sintase à vontade para abrir um issue ou enviar um pull request.
+
+Espero que você se divirta jogando!
