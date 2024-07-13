@@ -26,7 +26,7 @@ Adicionar níveis de dificuldade, permitindo que o jogador escolha um intervalo 
 Implementar um limite de tentativas para tornar o jogo mais desafiador.
 Exibir a contagem de tentativas para o jogador.
 Adicionar dicas para ajudar o jogador a adivinhar o número secreto.
-Link para o jogo online: [Insira o link aqui quando estiver pronto]
+Link para o jogo online: https://jogo-gold-six.vercel.app
 
 Contribuições:
 
